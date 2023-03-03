@@ -1,0 +1,16 @@
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.exe
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.deps.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.runtimeconfig.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.runtimeconfig.dev.json
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.dll
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\bin\Debug\net5.0\Demo_Delegate_Example.pdb
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.csproj.AssemblyReference.cache
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.AssemblyInfoInputs.cache
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.AssemblyInfo.cs
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.csproj.CoreCompileInputs.cache
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.dll
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\refint\Demo_Delegate_Example.dll
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.pdb
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\Demo_Delegate_Example.genruntimeconfig.cache
+D:\VKU\HK2-N3\LẬP TRÌNH WEB NC\Project\TEST\C# basic\Demo_Delegate_Example\obj\Debug\net5.0\ref\Demo_Delegate_Example.dll
